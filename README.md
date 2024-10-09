@@ -1,4 +1,21 @@
-<bodye>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador de Visitas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .contador {
+            font-size: 2em;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
   <h1>
    👋 Hi, I’m @Hferpi 🇪🇸   
   </h1>  
@@ -39,4 +56,5 @@
 Hi, I m new in this area. I'm coming from learn all I can, I start this week the 26 of February of 2024.
 
 
-</bodye>
+</body>
+</html>
