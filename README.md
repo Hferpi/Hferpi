@@ -2,6 +2,29 @@
   <h1>
    👋 Hi, I’m @Hferpi 🇪🇸   
   </h1>  
+   <h1>Bienvenido a mi página</h1>
+    <p>Has visitado esta página:</p>
+    <div class="contador" id="contador"></div>
+    <p>veces en este navegador.</p>
+
+    <script>
+        // Obtenemos el contador desde localStorage
+        let contadorVisitas = localStorage.getItem('contadorVisitas');
+        
+        // Si no existe el contador, lo inicializamos a 0
+        if (contadorVisitas === null) {
+            contadorVisitas = 0;
+        }
+
+        // Incrementamos el contador en 1
+        contadorVisitas++;
+
+        // Actualizamos el contador en localStorage
+        localStorage.setItem('contadorVisitas', contadorVisitas);
+
+        // Mostramos el valor del contador en la página
+        document.getElementById('contador').innerText = contadorVisitas;
+    </script>
 <div>
   <ul>
 <li>- 👀 I’m interested in create something to impact the world</li>
