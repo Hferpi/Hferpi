@@ -5,7 +5,7 @@
    👋 Hi, I’m @Hferpi 🇪🇸   
   </h1>  
   <div>
-<h3> Congratulations you are the </h3><a title="website hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=8xtmu6yp7972zccr73tk25yj43fb4zlm" border="0" title="website hit counter" alt="website hit counter"></a>
+<h3> Congratulations you are the </h3><a href="https://www.contadorvisitasgratis.com" title="contador de visitas gratis"><img src="https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=eb3p81yz5zf5wdujf1dkae8nyfthhm1r" border="0" title="contador de visitas gratis" alt="contador de visitas gratis"></a>
     </div>
 <div>
   <ul>
