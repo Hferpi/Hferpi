@@ -19,7 +19,7 @@
 </div>
 
 Hi, I m new in this area. I'm coming from learn all I can, I start this week the 26 of February of 2024.
-
+<!--https://devicon.dev/-->m
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="width: 50px; height: 50px; ;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="width: 50px; height: 50px; ">
@@ -27,6 +27,10 @@ Hi, I m new in this area. I'm coming from learn all I can, I start this week the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" style="width: 50px; height: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" style="width: 50px; height: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" style="width: 50px; height: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 </div>
 
 
