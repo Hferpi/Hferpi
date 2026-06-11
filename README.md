@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in create something to impact the world<br>🌱 I’m currently learning new methodologies.<br>💞️ I’m looking to collaborate on make the world better<br>📫 How to reach me hferpi@gmail.com<br>😄 Pronouns: 10,1% to 100% 🔁
+👀 I’m interested in create something to impact the world<br>🌱 I’m currently learning new methodologies.<br>💞️ I’m looking to collaborate on make the world better<br>📫 How to reach me hola@hferpi.com<br>😄 Pronouns: 10,1% to 100% 🔁
 
 
 ## 🌐 Socials:
